@@ -1,0 +1,8 @@
+{
+  "name": "heyU",
+  "app_id": "ce0b3ccc",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
